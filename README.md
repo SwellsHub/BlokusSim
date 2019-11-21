@@ -1,6 +1,8 @@
 # BlokusSim
 Simulation of Blokus played by AI with different strategies
 
+![Screenshot](blokusFinishedGame.png)
+
 # How to run:
 
 Method 1 - Visual Mode:
